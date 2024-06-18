@@ -73,7 +73,7 @@
     "react-test-renderer": "^18.2.0",
     "reflect-metadata": "^0.1.13",
     "tslib": "^2.6.2",
-    "ws": "^8.14.1",
+    "ws": "^8.17.1",
     "xml-js": "^1.6.11",
     "zod": "^3.22.4"
   },
